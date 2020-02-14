@@ -1,0 +1,1 @@
+mongoimport --host vidly-shard-0/vidly-shard-00-00-w1dd0.mongodb.net:27017,vidly-shard-00-01-w1dd0.mongodb.net:27017,vidly-shard-00-02-w1dd0.mongodb.net:27017 --ssl --username smollalex --password <PASSWORD> --authenticationDatabase admin --db <DATABASE> --collection <COLLECTION> --type <FILETYPE> --file <FILENAME>
