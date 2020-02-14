@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "mongodb://smollalex:timepass>@vidly-w1dd0.mongodb.net/vidly"
+  "db": "mongodb+srv://smollalex:timepass@vidly-w1dd0.mongodb.net/vidly"
 }

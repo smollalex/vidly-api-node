@@ -70,3 +70,9 @@
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-13T14:01:52.836Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-13T14:02:49.785Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T08:08:08.337Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:56:13.271Z"}
+{"level":"info","message":"Connected to mongodb+srv://smollalex:timepass@vidly-w1dd0.mongodb.net/vidly?retryWrites=true&w=majority...","timestamp":"2020-02-14T09:56:14.279Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:56:42.261Z"}
+{"level":"info","message":"Connected to mongodb+srv://smollalex:timepass@vidly-w1dd0.mongodb.net/vidly...","timestamp":"2020-02-14T09:56:43.051Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:57:20.075Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:59:28.672Z"}
