@@ -76,3 +76,5 @@
 {"level":"info","message":"Connected to mongodb+srv://smollalex:timepass@vidly-w1dd0.mongodb.net/vidly...","timestamp":"2020-02-14T09:56:43.051Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:57:20.075Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:59:28.672Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-02-14T09:59:43.265Z"}
+{"level":"info","message":"Connected to mongodb+srv://smollalex:timepass@vidly-w1dd0.mongodb.net/vidly...","timestamp":"2020-02-14T09:59:44.565Z"}
